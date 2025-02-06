@@ -1,0 +1,16 @@
+C:\Users\raksh\source\repos\exp 42\bin\Debug\net8.0-windows\exp 42.exe
+C:\Users\raksh\source\repos\exp 42\bin\Debug\net8.0-windows\exp 42.deps.json
+C:\Users\raksh\source\repos\exp 42\bin\Debug\net8.0-windows\exp 42.runtimeconfig.json
+C:\Users\raksh\source\repos\exp 42\bin\Debug\net8.0-windows\exp 42.dll
+C:\Users\raksh\source\repos\exp 42\bin\Debug\net8.0-windows\exp 42.pdb
+C:\Users\raksh\source\repos\exp 42\obj\Debug\net8.0-windows\exp_42.Form1.resources
+C:\Users\raksh\source\repos\exp 42\obj\Debug\net8.0-windows\exp 42.vbproj.GenerateResource.cache
+C:\Users\raksh\source\repos\exp 42\obj\Debug\net8.0-windows\exp 42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksh\source\repos\exp 42\obj\Debug\net8.0-windows\exp 42.AssemblyInfoInputs.cache
+C:\Users\raksh\source\repos\exp 42\obj\Debug\net8.0-windows\exp 42.AssemblyInfo.vb
+C:\Users\raksh\source\repos\exp 42\obj\Debug\net8.0-windows\exp 42.vbproj.CoreCompileInputs.cache
+C:\Users\raksh\source\repos\exp 42\obj\Debug\net8.0-windows\exp 42.dll
+C:\Users\raksh\source\repos\exp 42\obj\Debug\net8.0-windows\refint\exp 42.dll
+C:\Users\raksh\source\repos\exp 42\obj\Debug\net8.0-windows\exp 42.pdb
+C:\Users\raksh\source\repos\exp 42\obj\Debug\net8.0-windows\exp 42.genruntimeconfig.cache
+C:\Users\raksh\source\repos\exp 42\obj\Debug\net8.0-windows\ref\exp 42.dll

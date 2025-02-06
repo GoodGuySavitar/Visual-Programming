@@ -1,0 +1,16 @@
+C:\Users\raksh\source\repos\KMtoM\bin\Debug\net8.0-windows\KMtoM.exe
+C:\Users\raksh\source\repos\KMtoM\bin\Debug\net8.0-windows\KMtoM.deps.json
+C:\Users\raksh\source\repos\KMtoM\bin\Debug\net8.0-windows\KMtoM.runtimeconfig.json
+C:\Users\raksh\source\repos\KMtoM\bin\Debug\net8.0-windows\KMtoM.dll
+C:\Users\raksh\source\repos\KMtoM\bin\Debug\net8.0-windows\KMtoM.pdb
+C:\Users\raksh\source\repos\KMtoM\obj\Debug\net8.0-windows\KMtoM.Form1.resources
+C:\Users\raksh\source\repos\KMtoM\obj\Debug\net8.0-windows\KMtoM.vbproj.GenerateResource.cache
+C:\Users\raksh\source\repos\KMtoM\obj\Debug\net8.0-windows\KMtoM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raksh\source\repos\KMtoM\obj\Debug\net8.0-windows\KMtoM.AssemblyInfoInputs.cache
+C:\Users\raksh\source\repos\KMtoM\obj\Debug\net8.0-windows\KMtoM.AssemblyInfo.vb
+C:\Users\raksh\source\repos\KMtoM\obj\Debug\net8.0-windows\KMtoM.vbproj.CoreCompileInputs.cache
+C:\Users\raksh\source\repos\KMtoM\obj\Debug\net8.0-windows\KMtoM.dll
+C:\Users\raksh\source\repos\KMtoM\obj\Debug\net8.0-windows\refint\KMtoM.dll
+C:\Users\raksh\source\repos\KMtoM\obj\Debug\net8.0-windows\KMtoM.pdb
+C:\Users\raksh\source\repos\KMtoM\obj\Debug\net8.0-windows\KMtoM.genruntimeconfig.cache
+C:\Users\raksh\source\repos\KMtoM\obj\Debug\net8.0-windows\ref\KMtoM.dll
